@@ -1,5 +1,0 @@
-var3 = list(["ghdgfhgd",5,2,"hfgdfd","bfgf","fddsffcsfd"])
-print(var3[0])
-print(var3[1])
-print(var3[2])
-print(var3[3])
