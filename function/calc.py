@@ -1,0 +1,13 @@
+def calculator( a,b):
+    a=int(input("enter first number"))
+    b=int(input("enter second number"))
+    print("addition",a+b)
+    print("difference",a-b)
+    print("multiplication",a*b)
+    print("division",a/b)
+calculator(a=10,b=5)    
+calculator(a=1,b=2) 
+calculator(a=100,b=10)   
+a=int(input("enter first number"))
+b=int(input("enter second number"))
+calculator(a,b) 
