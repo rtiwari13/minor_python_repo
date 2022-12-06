@@ -1,0 +1,1 @@
+This is minor november training of Python , File Handling in python. We created a file say text file and then wrote some text via file access methods 
